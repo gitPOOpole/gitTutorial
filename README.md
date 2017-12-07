@@ -1,0 +1,1 @@
+To jest testowe reozytorium stworzone w celach edukacyjnych dla studentów Politechniki Opolskiej
